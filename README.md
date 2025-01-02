@@ -17,6 +17,7 @@ DEV:
 
 3KawK8aQe48478s6fxJ8Ms6VTWkwjgr9f2
 
+
 ## 如何支持此项目？
 软件遵循GPL V3协议，是完全开源免费的，但开发者写代码、维护需要投入大量时间精力。
 大家的支持是项目得以延续的动力。
@@ -52,7 +53,6 @@ https://afdian.net/a/manong
   `STORE_PASSWORD`: 你的安卓签名文件的store密码。
 * 在Github Actions中触发编译
 * 下载`Artifacts`中的编译产物`aaps.zip` 
-
 
 ### If your are NOT familiar with Android development:
 You need to get the secerts of the key store file to sign your application. For security reason, all of the passwords are NOT in this repoitory.
